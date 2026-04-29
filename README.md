@@ -532,7 +532,7 @@ plt.show()
 
 
 
-![png](ex2_files/ex2_11_0.png)
+![png](ex2_11_0.png)
 
 
 
